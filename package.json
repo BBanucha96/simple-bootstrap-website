@@ -1,0 +1,11 @@
+{
+  "name": "bootstrap-webiste",
+  "version": "1.0.0",
+  "description": "Responsive bootstrap website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brajan Banucha",
+  "license": "MIT"
+}
