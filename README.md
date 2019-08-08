@@ -6,7 +6,7 @@ One page website with some simple effects and responsiveness.
 
 Website preview: https://bbanucha96.github.io/simple-bootstrap-website/
 
-![](https://i.imgur.com/OEsW8xg.png)
+![](https://i.imgur.com/8gjOPF1.png)
 
 ## Built with usage of:
 
